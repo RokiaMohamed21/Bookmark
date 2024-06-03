@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite; 
+}
+.header{
+    text-align: center;
+}
+h1{
+    font-family: 'Borel', cursive;
+    font-weight: 1000;
+    
+}
+
+input{
+    height: 40px;
+}
+::placeholder{
+    padding-left: 10px;
+}
+.clr{
+    clear: both;
+}
+.btn{
+    width: 12rem ;
+    height: 50px; 
+    font-size: 18px ;
+  
+}
